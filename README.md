@@ -8,5 +8,5 @@ We offer affordable houses that prioritize comfort, situated in nice locations w
 HTML
 CSS
 Javascript
-## Use of the Application
+## Use of this Application
 This project is a web-based platform that allows users to buy, sell, or rent houses. The platform will have three main sections: Buy, Sell, and Rent.
